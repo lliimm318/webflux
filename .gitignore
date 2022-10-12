@@ -1,0 +1,9 @@
+
+*.class
+src/.DS_Store
+*.bat
+gradlew
+.DS_Store
+HELP.md
+*.jar
+*.bin
