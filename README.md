@@ -4,7 +4,7 @@
 
 
 **map과 flatMap..?**    
-map은 많이 본 친구고,,, 근데 flatMap?? 둘 다 스트림의 중간에 값을 변환해주는 역할을 한다. (hashMap할 때 그 Map 아님!!). 
+map은 많이 본 친구고,,, 근데 flatMap?? 둘 다 스트림의 중간에 값을 변환해주는 역할을 한다. (hashMap할 때 그 Map 아님!!)<br/>
 map은 1 : 1로 변환하고, flatMap은 1 : N 으로 변환 가능하다!
 
 ## map
